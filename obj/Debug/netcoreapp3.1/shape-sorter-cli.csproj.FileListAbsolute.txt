@@ -1,0 +1,12 @@
+/Users/justin/otherProjects/C#/shape-sorter-cli/bin/Debug/netcoreapp3.1/shape-sorter-cli.deps.json
+/Users/justin/otherProjects/C#/shape-sorter-cli/bin/Debug/netcoreapp3.1/shape-sorter-cli.runtimeconfig.json
+/Users/justin/otherProjects/C#/shape-sorter-cli/bin/Debug/netcoreapp3.1/shape-sorter-cli.runtimeconfig.dev.json
+/Users/justin/otherProjects/C#/shape-sorter-cli/bin/Debug/netcoreapp3.1/shape-sorter-cli.dll
+/Users/justin/otherProjects/C#/shape-sorter-cli/bin/Debug/netcoreapp3.1/shape-sorter-cli.pdb
+/Users/justin/otherProjects/C#/shape-sorter-cli/obj/Debug/netcoreapp3.1/shape-sorter-cli.csprojAssemblyReference.cache
+/Users/justin/otherProjects/C#/shape-sorter-cli/obj/Debug/netcoreapp3.1/shape-sorter-cli.csproj.CoreCompileInputs.cache
+/Users/justin/otherProjects/C#/shape-sorter-cli/obj/Debug/netcoreapp3.1/shape-sorter-cli.AssemblyInfoInputs.cache
+/Users/justin/otherProjects/C#/shape-sorter-cli/obj/Debug/netcoreapp3.1/shape-sorter-cli.AssemblyInfo.cs
+/Users/justin/otherProjects/C#/shape-sorter-cli/obj/Debug/netcoreapp3.1/shape-sorter-cli.dll
+/Users/justin/otherProjects/C#/shape-sorter-cli/obj/Debug/netcoreapp3.1/shape-sorter-cli.pdb
+/Users/justin/otherProjects/C#/shape-sorter-cli/obj/Debug/netcoreapp3.1/shape-sorter-cli.genruntimeconfig.cache
